@@ -1,2 +1,2 @@
 # Damai
-大麦test
+大麦
